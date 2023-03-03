@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">sqlitedemo</string>
+    <string name="book_author">Book Author</string>
+    <string name="book_title">Book title</string>
+    <string name="no_of_pages">No. of pages</string>
+    <string name="add">Add</string>
+    <string name="_1">1</string>
+    <string name="demo">demo</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="mob_no">Mob. No.</string>
+    <string name="city">City</string>
+    <string name="save_contact">Save Contact</string>
+</resources>
